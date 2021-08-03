@@ -1,0 +1,29 @@
+body {
+    background: #f8f9fb;
+    font-family: Roboto;
+    font-size: 13px;
+    color: #153951;
+}
+
+.securityBox {background: #fff;border-radius: 10px;
+    -webkit-box-shadow: 0 0 15px #dde1e1;
+    -moz-box-shadow: 0 0 15px #dde1e1;
+    box-shadow: 0 0 15px #dde1e1;
+    padding: 1em;
+    margin: 1em auto;}
+.securityBox img {width: 50%; float: right;}
+
+.logoBox {background: #153951;border-radius: 10px 10px 0 0;
+    -webkit-box-shadow: 0 0 15px #dde1e1;
+    -moz-box-shadow: 0 0 15px #dde1e1;
+    box-shadow: 0 0 15px #dde1e1;
+    padding: 1em 1em 2em 1em;
+    margin: 1em auto 0 auto;}
+.logoBox img {width: 80%; margin: 0 auto; display: block;}
+.aboutBox {background: #fff;border-radius: 10px;
+    -webkit-box-shadow: 0 0 15px #dde1e1;
+    -moz-box-shadow: 0 0 15px #dde1e1;
+    box-shadow: 0 0 15px #dde1e1;
+    padding: 1em;
+    margin: 0 auto 1em auto;position: relative;top: -10px;}
+

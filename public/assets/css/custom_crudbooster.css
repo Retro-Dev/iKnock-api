@@ -1,0 +1,3 @@
+tfoot, .panel-heading, .pull-left .info a{
+	display: none !important;
+}

@@ -1,0 +1,221 @@
+/*login form*/
+.nomargin
+          {
+               margin-left:0px;
+               margin-right:0px;
+           }
+
+.nopadding
+          {
+               padding-left:0px;
+               padding-right:0px;
+          }
+
+.bg-img
+          {
+               background-image:url("../../../image/splash.jpg");
+                background-size:cover;
+               background-repeat:no-repeat;
+          }
+
+#custom-form1,#custom-form2
+          {
+               margin-top:15px;
+               width:400px;
+               border-bottom: 2px solid gray;
+               margin-bottom:0px;
+          }
+
+#icon
+          {
+               padding-top: 15px;
+               padding-left:20px;
+               color:gray;
+          }
+
+#custom-input1
+          {
+               background-color: transparent;
+               color:yellow;
+               margin-left:20px;
+          }
+
+#custom-input2
+          {
+               background-color: transparent;
+               color:yellow;
+               margin-left:20px;
+          }
+
+#form-group
+          {
+               background:white;
+               width:100%;
+               margin-bottom:0px;
+          }
+
+#loginform
+          {
+               background-color:white;
+               margin-bottom:0px;
+               width:100%;
+               margin-bottom:1px;
+          }
+#login-txt
+          {
+               color:white;
+               margin-top:0px;
+          }
+
+#img1-bg
+          {
+               background-color:#20295c;
+               padding:10px 20px;
+          }
+
+#img2-bg
+          {
+               background-color:#20295c;
+               padding:10px 20px;
+          }
+
+#login-btn
+          {
+               background-color:yellow;
+               margin-top:50px;
+               padding:10px 0px;
+               width:400px;
+          }
+#submit-btn
+         {
+                background-color:yellow;
+                margin-top:30px;
+                padding:10px 0px;
+                width:400px;
+        }
+
+#forget-pwd
+          {
+               color: white;
+               float: right;
+               margin-top: -36px;
+          }
+
+#form-check
+          {
+               margin-top:15px;
+          }
+
+.form-control
+          {
+               margin-top: 0px;
+               border: none;
+          }
+
+.txt-right
+          {
+               text-align:right;
+               margin-top:-36px;
+               font-size:25px;
+          }
+
+.card
+          {
+               background:transparent;
+               border:none;
+          }
+
+
+body {
+     color: #000 !important;
+}
+
+.page-container .sidebar-menu {width: 140px;}
+.page-container .sidebar-menu .logo-env {padding: 10px 10px;}
+
+
+
+
+.logo-img{
+     margin-top:80px;
+}
+
+.flex-sb-m{
+     justify-content: space-between;
+     text-align: center;
+     display: flex;
+     margin-top:16px;
+     color:white;
+
+}
+
+.flex-sb-m a {
+     color:white;
+     margin-right: 19px;
+}
+
+
+#custom-form1:hover,#custom-form2:hover{width:400px;border-bottom: 2px solid yellow !important;margin-bottom:0px;}
+
+input:focus::-webkit-input-placeholder {
+     color: yellow;
+}
+
+input:hover::-webkit-input-placeholder {
+     color: yellow;
+}
+
+.hide{
+     display: none;
+
+}
+
+#custom-input1:focus,#custom-input2:focus {
+     margin-left: 0 !important;
+}
+
+.form-control:focus{
+     box-shadow: none;
+     background: rgba(0, 0, 0, 0.3) !important;
+     filter: alpha(opacity=20); /* For IE8 and earlier */
+
+}
+
+#custom-form1{
+     margin-bottom: 25px !important;
+}
+#custom-form1:focus{
+     margin-left: 0px !important;
+
+}
+
+.card:focus{
+     background-color: transparent !important;
+}
+
+/*login form*/
+.row{
+     margin-left:0px;
+     margin-right:0px;
+}
+.card-img-top{background-color:rgba(52,73,94,.94);}
+.search{margin-top:20px;}
+.dropdown-menu  li{margin-left:20px;margin-top:10px;margin-bottom:10px;}
+#add_bt
+{
+     background-color: #113f85;
+     padding:15px 15px;
+     color: white;
+     margin-top:24px;
+     text-align: center;
+}
+
+.disabled .text{
+    color:white !important;
+    
+}
+.disabled:hover{
+    color:black !important;
+    background-color: #337ab7 !important;
+}
+

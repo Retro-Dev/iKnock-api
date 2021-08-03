@@ -1,0 +1,35 @@
+.margin-top-05 { margin-top: 0.5em; }
+.margin-top-10 { margin-top: 1.0em; }
+.margin-top-15 { margin-top: 1.5em; }
+.margin-top-20 { margin-top: 2.0em; }
+.margin-top-25 { margin-top: 2.5em; }
+.margin-top-30 { margin-top: 3.0em; }
+
+
+.card-entry-form { max-width: 50em; }
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+
+
+.form-loading {
+    padding: 150px 0 0 0;
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+.panel-default>.panel-heading{
+    color: #fff;
+    background-color: #153951;
+}
+
+.btn-my{
+    color: #fff;
+    background-color: #153951;
+    border-color: #153951;
+}
